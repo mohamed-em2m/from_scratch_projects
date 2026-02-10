@@ -1,2 +1,2 @@
 # from_scratch_projects
-this will contain all my from scratch project
+Hi! This is my repo. I realized that by relying on high-level libraries, I never really understood how things work under the hood. So, I want to start implementing everything I know from scratch to gain a deeper understanding of the fundamentals.

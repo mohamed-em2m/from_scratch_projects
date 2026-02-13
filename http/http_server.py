@@ -1,7 +1,7 @@
 import json
 import socket
-from http.data_types import HTTPRequest
-from http.data_types import HTTPResponse
+from .data_types import HTTPRequest
+from .data_types import HTTPResponse
 
 
 class server:
